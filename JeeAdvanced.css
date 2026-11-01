@@ -1,0 +1,137 @@
+*{
+    margin:0;
+    padding:0px;
+}
+#NavBar{
+    height:150px;
+    width:100%;
+    color:black;
+    background-color:whitesmoke;
+}
+#Title{
+    display:flex;
+}
+
+#JA{
+    height:120px;
+    width:130px;
+    margin-left:150px;
+}
+#T1{
+    margin-top:50px;
+}
+#h2{
+    margin-left:5px;
+}
+#iitLogo{
+    height:140px;
+    width:140px;
+    margin-left:90px;
+}
+#iitr{
+    display:flex;
+    
+}
+#iitName{
+    margin-top:30px;
+    margin-left:10px;
+}
+#MenuBar{
+    height:50px;
+    width:100%;
+    font-size:20px;
+    color:white;
+    background-color:#00243a;
+    font-weight:500;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+#bg{
+    height:400px;
+    width:100%;
+}
+#Absolute{
+    display:flex;
+}
+#Content{
+    margin-top:55px;
+    margin-left:60px;
+}
+#C1{
+    height:200px;
+    width:800px;
+    border:2px solid black;
+    margin-bottom:15px;
+}
+#light1{
+    color:rgb(165, 161, 161);
+    font-size:25px;
+}
+#light2{
+    color:rgb(165, 161, 161);
+    font-size:25px;
+}
+#C2{
+    height:100px;
+    width:800px;
+    border:2px solid black;
+    margin-bottom:15px;
+
+}
+#C3{
+    height:220px;
+    width:800px;
+    border:2px solid black;
+}
+#sidebar{
+    margin-top:55px;
+    margin-left:45px;
+}
+#sb1{
+    height:60px;
+    width:300px;
+    font-size:20px;
+    border:2px solid black;
+    text-align:center;
+    margin-bottom: 15px;
+    text-decoration:none;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#sb2{
+    height:40px;
+    width:300px;
+    font-size:20px;
+    border:2px solid black;
+    text-align:center;
+    margin-bottom: 15px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#sb3{
+    height:40px;
+    width:300px;
+    font-size:20px;
+    border:2px solid black;
+    text-align:center;
+    margin-bottom: 15px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#sb5{
+    height:30px;
+    width:300px;
+    border:2px solid black;
+    margin-bottom: 15px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#Josaa{
+    color:orange;
+    font-weight:600;
+}
